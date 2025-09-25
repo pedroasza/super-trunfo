@@ -22,7 +22,7 @@ int main() {
     // Informações da Carta 1
     printf("Cadastro da Carta 1\n");
     printf("Digite o Estado: ");
-    scanf(" %c", &estado1);
+    scanf("%c", &estado1);
 
     printf("Digite o Código da Carta (ex: A01): ");
     scanf("%s", codigo1);
